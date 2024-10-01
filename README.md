@@ -1,10 +1,5 @@
 # 概要
-
- BABEL BABEL BABEL BABE<br>
-L BABEL BABEL BABEL BAB<br>
- BABEL BABEL BABEL BABE<br>
-L BABEL BABEL BABEL BAB<br>
-<br>
+![Example Image](./img.gif)
 
 ## ダウンロード
 ~~~ bash
@@ -28,7 +23,7 @@ gcc -o hos hos.c -lncurses
 ~~~
 
 ## 使い方
-パスワード入力でH.HOBAを入力
+パスワード入力でE.HOBAを入力
 
 ## 終了
 Ctrl + C

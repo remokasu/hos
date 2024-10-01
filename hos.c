@@ -89,7 +89,7 @@ void inputPassword(){
         refresh();
     }
 
-    if (strcmp(input, "H.HOBA") != 0) {
+    if (strcmp(input, "E.HOBA") != 0) {
         mvprintw(LINES / 2 + 1, start_col + strlen(line3), "%*s", (int)strlen(input), "");
         move(LINES / 2 + 1, start_col + strlen(line3));
         goto input_mode;
