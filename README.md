@@ -1,5 +1,5 @@
 # 概要
-![Example Image](./img.gif)
+![Image](./img.gif)
 
 ## ダウンロード
 ~~~ bash
