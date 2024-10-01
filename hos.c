@@ -65,7 +65,7 @@ void inputPassword(){
     printDelayed(line3, LINES / 2 + 1, start_col);
 
     input_mode:
-
+    ;
     char input[100];
     memset(input, 0, sizeof(input));
     echo();
